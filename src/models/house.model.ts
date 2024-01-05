@@ -17,7 +17,6 @@ const houseSchema = new Schema(
         },
         datas_id: {
             type: String,
-            required: true,
         },
     },
     { versionKey: false },
