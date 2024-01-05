@@ -1,1 +1,1 @@
-# lakasappbackend
+# szgm-next-server
